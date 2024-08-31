@@ -19,8 +19,8 @@ I'm enhancing my skills in **front-end web development** and exploring new techn
 - **Fun Fact:** I love exploring creative design patterns and experimenting with different color schemes. 🎨
 
 ## 🚀 Let's Connect
-- [GitHub Profile](https://github.com/your-github-bazalsarfraz786)
-- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/bazal-sarfraz/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- [GitHub Profile](https://github.com/bazalsarfraz786)
+- [LinkedIn](https://www.linkedin.com/in/bazal-sarfraz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate or just chat about web development! 😊
