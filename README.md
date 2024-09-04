@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3 and Javascript.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bazalsarfraz786](https://github.com/bazalsarfraz786)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/bazalsarfraz786" target="blank">Github</a>
 
 - 💬 Ask me about **html,css and javascript**
 
