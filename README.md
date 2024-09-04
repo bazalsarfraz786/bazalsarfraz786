@@ -37,14 +37,26 @@ I'm enhancing my skills in **front-end web development** and exploring new techn
 - **Email:** [bazalsarfraz7863@gmail.com](mailto:bazalsarfraz7863@gmail.com)
 - **Phone:** [03071294031](tel:03071294031)
   
-## 💻 Languages Stats
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bazalsarfraz786&show_icons=true&locale=en&layout=compact" alt="bazalsarfraz786" /></p>
+## 📈 My GitHub Stats 🔥📊💻
 
-## 📊 Github Stats
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=bazalsarfraz786&show_icons=true&locale=en" alt="bazalsarfraz786" /></p>
-
-## 🔥 Github Streak
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=bazalsarfraz786&" alt="bazalsarfraz786" /></p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazalsarfraz786&hide=less,scss,hack&show_icons=true&theme=radical&layout=compact&langs_count=8" alt="bazalsarfraz786"/>
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bazalsarfraz786&theme=radical" alt="bazalsarfraz786"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=bazalsarfraz786&count_private=true&count_public=true&show_icons=true&&theme=radical&include_all_commits=true" alt="bazalsarfraz786"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=bazalsarfraz786&theme=radical" alt="bazalsarfraz786"/>
+    </td>
+  </tr>
+</table>
 
 
 
